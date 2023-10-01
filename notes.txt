@@ -1,0 +1,6 @@
+Node core Module System consists of the following 
+1. operating system.
+2. File system.
+3. events.
+4. http.
+
